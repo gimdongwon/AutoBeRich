@@ -1,4 +1,3 @@
-import loginAPI from '../../apis/login';
 import LoginPresenter from './LoginPresenter';
 import Router from 'next/router';
 import API from '../../apis';
